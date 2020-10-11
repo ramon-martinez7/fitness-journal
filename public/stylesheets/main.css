@@ -26,7 +26,7 @@
       max-width: 100%; }
 
 
-        /* .weight-bg{
+        .weight-bg{
         position: fixed;
         width: 100%;
         height: 100vh;
@@ -41,7 +41,7 @@
         transition: visibility 0s, opacity 0,5s; 
       } */
 
-      /* .weight{
+      .weight{
         background-color: black;
         width: 30%;
         height: 30%;
@@ -50,9 +50,9 @@
         align-items: center;
         flex-direction: column;
 
-      } */
+      }
 
-      /* .setsreps-bg{
+       .setsreps-bg{
         position: fixed;
         width: 100%;
         height: 100vh;
@@ -80,10 +80,10 @@
 
     
         .bg-active{
-        visibility: visibile;
+        visibility: visible;
         opacity: 1;
 
       }  
 
-      */
+     
 
